@@ -1,0 +1,2 @@
+# BoostInternetSpeed
+Boost Chrome Speed
