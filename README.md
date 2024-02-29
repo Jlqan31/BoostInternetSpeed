@@ -1,2 +1,4 @@
 # BoostInternetSpeed
-Boost Chrome Speed
+chrome://flags
+parallel download (enable)
+"RESTART"
